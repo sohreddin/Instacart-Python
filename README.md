@@ -2,7 +2,7 @@
 Instacart stakeholders want to analyze customer diversity and purchasing behaviors to implement a targeted marketing strategy. The goal is to test the impact of tailored campaigns on product sales by targeting different customer segments.
 
 # Objective
-![Instacart Logo](https://logowik.com/instacart-vector-logo-6337.html)
+![Instacart Logo](https://upload.wikimedia.org/wikipedia/commons/archive/9/9f/20220330054200%21Instacart_logo_and_wordmark.svg)
 
 Perform an initial data and exploratory analysis of Instacart's sales patterns to uncover insights and suggest strategies for better segmentation based on the provided criteria. The insights and strategies derived from the analysis will inform future decision-making for the company.
 
